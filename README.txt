@@ -57,3 +57,5 @@ This project contains custom Liquid code implementations done within a Shopify d
 
 - All changes are compatible with Shopify’s Dawn theme.
 - No external apps or scripts were used.
+
+Preview link - https://bwoznxhkcnc4mp6t-63861391439.shopifypreview.com
